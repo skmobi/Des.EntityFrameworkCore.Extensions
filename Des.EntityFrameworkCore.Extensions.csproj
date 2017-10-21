@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.1</Version>
+    <Authors>skmobi</Authors>
+    <Company>ite9.com</Company>
+    <Description>Entity FrameworkCore2.0: Bulk Insert,Bulk Update, Bulk Delete, Bulk Merge, and Bulk Synchronize. Support: SQL Server</Description>
+    <PackageProjectUrl>https://github.com/skmobi/Des.EntityFrameworkCore.Extensions</PackageProjectUrl>
+    <PackageIconUrl>https://go.microsoft.com/fwlink/?LinkID=288859</PackageIconUrl>
+    <RepositoryUrl>https://github.com/skmobi/Des.EntityFrameworkCore.Extensions.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
